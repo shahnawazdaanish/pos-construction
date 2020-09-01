@@ -12,24 +12,24 @@ self.__precacheManifest = [
     "url": "/img/theme/team-2-800x800.jpg"
   },
   {
-    "revision": "dfc81b611fcff5199ff6",
-    "url": "/js/chunk-vendors.0f49209a.js"
+    "revision": "b5bfdf83a9ac60c0d4f2",
+    "url": "/js/chunk-vendors.68b21b28.js"
   },
   {
     "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
     "url": "/img/theme/team-3-800x800.jpg"
   },
   {
-    "revision": "5bc172f6edc7b1959413",
-    "url": "/js/demo.84532026.js"
-  },
-  {
-    "revision": "edc7106b21ec12e57022b2ebd534cd2d",
-    "url": "/img/theme/team-1-800x800.jpg"
+    "revision": "596560e9159bf9b954b6",
+    "url": "/js/demo.3883e3a4.js"
   },
   {
     "revision": "66618a418175ddf2ac8c47a241d327a8",
     "url": "/img/theme/team-4-800x800.jpg"
+  },
+  {
+    "revision": "edc7106b21ec12e57022b2ebd534cd2d",
+    "url": "/img/theme/team-1-800x800.jpg"
   },
   {
     "revision": "cf218a61869b47efa4944017c0c7a270",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "3965b30a433e7ffd4acc6ac984ba9f76",
+    "revision": "bf2f053c498d69c6a8214b1b38487bcf",
     "url": "/index.html"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/img/theme/sketch.jpg"
   },
   {
-    "revision": "e87c6b6110d3fd1beb31",
-    "url": "/js/app.752c9bb0.js"
+    "revision": "711ef4eb03395d5da55f",
+    "url": "/js/app.3c20eaf4.js"
   },
   {
-    "revision": "f82ec6ba2dc4181db2af35c499462840",
-    "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
+    "revision": "93ef40c4882ddc136a79e154bda8928f",
+    "url": "/img/brand/bkash.png"
   },
   {
     "revision": "1f533d2fdc40493ee834dd8e4288220c",
@@ -72,47 +72,47 @@ self.__precacheManifest = [
     "url": "/img/theme/bootstrap.jpg"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/fonts/nucleo-icons.2569aaea.woff"
+    "revision": "c1733565b32b585676302d4233c39da8",
+    "url": "/fonts/nucleo-icons.c1733565.eot"
   },
   {
     "revision": "92cb7d58dd7b454f1628e379395a5999",
     "url": "/img/brand/bkash_favicon_0.ico"
   },
   {
-    "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
-    "url": "/img/nucleo-icons.0b8a30b1.svg"
-  },
-  {
     "revision": "59d7c2b119ab46fc7b5f853f04324c89",
     "url": "/img/brand/green.png"
+  },
+  {
+    "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
+    "url": "/img/nucleo-icons.0b8a30b1.svg"
   },
   {
     "revision": "a794a15f6e45b941d8a521e7965221a8",
     "url": "/img/brand/favicon.png"
   },
   {
-    "revision": "93ef40c4882ddc136a79e154bda8928f",
-    "url": "/img/brand/bkash.png"
-  },
-  {
-    "revision": "c1733565b32b585676302d4233c39da8",
-    "url": "/fonts/nucleo-icons.c1733565.eot"
+    "revision": "f82ec6ba2dc4181db2af35c499462840",
+    "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
     "revision": "426439788ec5ba772cdf94057f6f4659",
     "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "5bc172f6edc7b1959413",
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/fonts/nucleo-icons.2569aaea.woff"
+  },
+  {
+    "revision": "596560e9159bf9b954b6",
     "url": "/css/demo.41119feb.css"
   },
   {
-    "revision": "dfc81b611fcff5199ff6",
+    "revision": "b5bfdf83a9ac60c0d4f2",
     "url": "/css/chunk-vendors.719bd0ef.css"
   },
   {
-    "revision": "e87c6b6110d3fd1beb31",
+    "revision": "711ef4eb03395d5da55f",
     "url": "/css/app.6e90e736.css"
   }
 ];

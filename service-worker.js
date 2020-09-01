@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2070e3ebdd0a0d9524fe2eff241dbd5a.js"
+  "/precache-manifest.789c2220d8ec2b195a85e9f29a4f5dde.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bod-dashboard"});
