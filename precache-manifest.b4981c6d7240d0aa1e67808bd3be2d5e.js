@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/img/theme/team-3-800x800.jpg"
   },
   {
-    "revision": "5d7fe146d1522a42aec5",
-    "url": "/js/demo.e84f2d68.js"
+    "revision": "6279714483670ce1b8a8",
+    "url": "/js/demo.07acd84f.js"
   },
   {
     "revision": "edc7106b21ec12e57022b2ebd534cd2d",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/img/theme/vue.jpg"
   },
   {
-    "revision": "4cd03146c08ee6bc5fc9446dd33b8be6",
+    "revision": "13afabe0de3462939f8a03fcd890c678",
     "url": "/index.html"
   },
   {
@@ -56,16 +56,12 @@ self.__precacheManifest = [
     "url": "/img/theme/react.jpg"
   },
   {
-    "revision": "41b3fa33a96ab2b74168",
-    "url": "/js/app.a5892978.js"
+    "revision": "01e9a0598a4c9ed66599",
+    "url": "/js/app.fedd0f0b.js"
   },
   {
     "revision": "c1733565b32b585676302d4233c39da8",
     "url": "/fonts/nucleo-icons.c1733565.eot"
-  },
-  {
-    "revision": "1f533d2fdc40493ee834dd8e4288220c",
-    "url": "/img/theme/angular.jpg"
   },
   {
     "revision": "d136a071cf09ba5ab8dc2ada1ab04015",
@@ -76,8 +72,8 @@ self.__precacheManifest = [
     "url": "/img/brand/bkash.png"
   },
   {
-    "revision": "92cb7d58dd7b454f1628e379395a5999",
-    "url": "/img/brand/bkash_favicon_0.ico"
+    "revision": "1f533d2fdc40493ee834dd8e4288220c",
+    "url": "/img/theme/angular.jpg"
   },
   {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
@@ -92,6 +88,10 @@ self.__precacheManifest = [
     "url": "/img/brand/favicon.png"
   },
   {
+    "revision": "92cb7d58dd7b454f1628e379395a5999",
+    "url": "/img/brand/bkash_favicon_0.ico"
+  },
+  {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
   },
@@ -104,15 +104,15 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.2569aaea.woff"
   },
   {
-    "revision": "5d7fe146d1522a42aec5",
-    "url": "/css/demo.41119feb.css"
+    "revision": "6279714483670ce1b8a8",
+    "url": "/css/demo.4b3df7ed.css"
   },
   {
     "revision": "b5bfdf83a9ac60c0d4f2",
     "url": "/css/chunk-vendors.719bd0ef.css"
   },
   {
-    "revision": "41b3fa33a96ab2b74168",
+    "revision": "01e9a0598a4c9ed66599",
     "url": "/css/app.6e90e736.css"
   }
 ];
