@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.68b21b28.js"
   },
   {
-    "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
-    "url": "/img/theme/team-3-800x800.jpg"
-  },
-  {
-    "revision": "6279714483670ce1b8a8",
-    "url": "/js/demo.07acd84f.js"
-  },
-  {
     "revision": "edc7106b21ec12e57022b2ebd534cd2d",
     "url": "/img/theme/team-1-800x800.jpg"
+  },
+  {
+    "revision": "89ecfdacad1be88aed2c",
+    "url": "/js/demo.d72d7224.js"
+  },
+  {
+    "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
+    "url": "/img/theme/team-3-800x800.jpg"
   },
   {
     "revision": "66618a418175ddf2ac8c47a241d327a8",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/img/theme/vue.jpg"
   },
   {
-    "revision": "13afabe0de3462939f8a03fcd890c678",
+    "revision": "224e79f034329aa6bbf5cf9426e5fdd6",
     "url": "/index.html"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/img/theme/react.jpg"
   },
   {
-    "revision": "01e9a0598a4c9ed66599",
-    "url": "/js/app.fedd0f0b.js"
+    "revision": "2defbbb0a95cd9fd6e32",
+    "url": "/js/app.0978985d.js"
   },
   {
-    "revision": "c1733565b32b585676302d4233c39da8",
-    "url": "/fonts/nucleo-icons.c1733565.eot"
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/fonts/nucleo-icons.2569aaea.woff"
   },
   {
     "revision": "d136a071cf09ba5ab8dc2ada1ab04015",
@@ -72,20 +72,20 @@ self.__precacheManifest = [
     "url": "/img/brand/bkash.png"
   },
   {
-    "revision": "1f533d2fdc40493ee834dd8e4288220c",
-    "url": "/img/theme/angular.jpg"
+    "revision": "a794a15f6e45b941d8a521e7965221a8",
+    "url": "/img/brand/favicon.png"
   },
   {
     "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
     "url": "/img/nucleo-icons.0b8a30b1.svg"
   },
   {
-    "revision": "59d7c2b119ab46fc7b5f853f04324c89",
-    "url": "/img/brand/green.png"
+    "revision": "1f533d2fdc40493ee834dd8e4288220c",
+    "url": "/img/theme/angular.jpg"
   },
   {
-    "revision": "a794a15f6e45b941d8a521e7965221a8",
-    "url": "/img/brand/favicon.png"
+    "revision": "59d7c2b119ab46fc7b5f853f04324c89",
+    "url": "/img/brand/green.png"
   },
   {
     "revision": "92cb7d58dd7b454f1628e379395a5999",
@@ -96,23 +96,23 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
+    "revision": "c1733565b32b585676302d4233c39da8",
+    "url": "/fonts/nucleo-icons.c1733565.eot"
+  },
+  {
     "revision": "426439788ec5ba772cdf94057f6f4659",
     "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/fonts/nucleo-icons.2569aaea.woff"
-  },
-  {
-    "revision": "6279714483670ce1b8a8",
-    "url": "/css/demo.4b3df7ed.css"
+    "revision": "89ecfdacad1be88aed2c",
+    "url": "/css/demo.de40d17f.css"
   },
   {
     "revision": "b5bfdf83a9ac60c0d4f2",
     "url": "/css/chunk-vendors.719bd0ef.css"
   },
   {
-    "revision": "01e9a0598a4c9ed66599",
+    "revision": "2defbbb0a95cd9fd6e32",
     "url": "/css/app.6e90e736.css"
   }
 ];
